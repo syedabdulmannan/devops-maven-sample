@@ -5,6 +5,7 @@
     <groupId>io.kubesphere.devops</groupId>
     <artifactId>devops-sample</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>devops-sample :: HelloWorld Demo</name>
 
     <properties>
