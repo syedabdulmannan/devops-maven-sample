@@ -63,6 +63,7 @@
     </dependencies>
 
     <build>
+        <finalName>java-hello</finalName>
         <plugins>
             <plugin>
                 <groupId>org.jacoco</groupId>
